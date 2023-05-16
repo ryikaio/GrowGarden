@@ -1,0 +1,7 @@
+/MNIST
+/MNIST/digit_xtest.csv
+/MNIST/digit_xtrain.csv
+/MNIST/digit_ytest.csv
+/MNIST/digit_ytrain.csv
+/MNIST/load_xtest.csv
+/MNIST/load_xtest.csv
